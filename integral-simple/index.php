@@ -42,7 +42,7 @@ $(function() {
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand title" href="/">Grupo <span style="font-weight: 300;" class="span12">ZAMBRAANO,LOSSADA Y GUTIERREZ</span></a>				
+					<a class="navbar-brand title" href="/">Grupo <span style="font-weight: 300;" class="span12">ZAMBRAANO Y LOSSADA</span></a>				
 				</div>
 			</div>
 		</div>
@@ -78,7 +78,7 @@ $(function() {
 	</div>
 	<footer class="footer">
 	<div class="container">
-	<p class="text-muted">ESTUDIANTES EDUARDO LOSSADA,MARIEN ZAMBRANO Y JOSE GUTIERREZ. SECCION N1113. </p>
+	<p class="text-muted">ESTUDIANTES EDUARDO LOSSADA Y MARIEN ZAMBRANO. SECCION N1113. </p>
 	</div>
 	</footer>
 
